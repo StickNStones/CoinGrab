@@ -9,7 +9,7 @@ Collect coins for +1 score, collect key to open a chest for 5+ score
 
 
 
-Main Changes
+Main Changes:
 * Converted Java to Kotlin
 * Refactored code. No longer single class, improved readability
 * Added more interactive objects to game
