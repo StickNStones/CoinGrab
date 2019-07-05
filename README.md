@@ -1,6 +1,8 @@
 # CoinGrab
 
 Based on Super Mario Run Clone JumpMan from https://www.udemy.com/the-complete-android-oreo-developer-course
+
+
 Simple tap to jump, tilt screen to more in X-axis, avoid bombs or score is reset to 0
 
 Collect coins for +1 score, collect key to open a chest for 5+ score
